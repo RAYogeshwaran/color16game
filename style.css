@@ -1,0 +1,17 @@
+* {
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+#box{
+    width: 80%;
+    height: 500px;;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.smallBox {
+    width: 25%;
+    height: 25%;
+    background-color: blueviolet;
+    
+}
